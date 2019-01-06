@@ -6,7 +6,9 @@ for more deatils see: https://inside.uncc.edu/news-features/2018-10-23/bigdeal-e
 
 The competiton help in two section 
 1) Qualifying Match : where  the task was to find which ones and how many weather stations are responsible for the load consuption/supply for an unknown location
+http://blog.drhongtao.com/2018/11/leaderboard-for-bfcom2018-qualifying-match.html
 
 2) Final match : to forecast what is the probability of each hour being the peak hour of the day. 
+http://blog.drhongtao.com/2018/12/leaderboard-for-bfcom2018-final-match.html
 
 My teama and I secured 11th rank in the qualifying matcha and 15th rank in Final match. 
