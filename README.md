@@ -11,4 +11,4 @@ http://blog.drhongtao.com/2018/11/leaderboard-for-bfcom2018-qualifying-match.htm
 2) Final match : to forecast what is the probability of each hour being the peak hour of the day. 
 http://blog.drhongtao.com/2018/12/leaderboard-for-bfcom2018-final-match.html
 
-My teama and I secured 11th rank in the qualifying matcha and 15th rank in Final match. 
+My team and I secured 11th rank in the qualifying matcha and 15th rank in Final match. 
